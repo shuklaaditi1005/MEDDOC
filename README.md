@@ -1,4 +1,4 @@
-# Medidoc - An Online Disease Detection Platform
+# Meddoc - An Online Disease Detection Platform
 
 This webapp is developed using Flask Web Framework. The models used to predict the diseases are trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
 
@@ -60,11 +60,11 @@ python main.py
 All the datasets were used from kaggle.
 
 
-- [Brain Tumor Dataset](https://github.com/sajal1302/MEDIDOC/tree/master/dataset/brain_tumor_dataset)
+- [Brain Tumor Dataset](https://github.com/shuklaaditi1005/MEDIDOC/tree/master/dataset/brain_tumor_dataset)
 - [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 - [Pneumonia Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 ## Links for Python Notebooks used for model creation
 
-- [All Diseases] (https://github.com/sajal1302/MEDIDOC/tree/master/codes)
+- [All Diseases] (https://github.com/shuklaaditi1005/MEDDOC/tree/master/codes)
 
