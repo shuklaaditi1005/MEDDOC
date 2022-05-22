@@ -60,7 +60,7 @@ python main.py
 All the datasets were used from kaggle.
 
 
-- [Brain Tumor Dataset](https://github.com/shuklaaditi1005/MEDIDOC/tree/master/dataset/brain_tumor_dataset)
+- [Brain Tumor Dataset](https://github.com/shuklaaditi1005/MEDDOC/tree/master/dataset/brain_tumor_dataset)
 - [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 - [Pneumonia Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
